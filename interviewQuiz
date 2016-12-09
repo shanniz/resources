@@ -1,0 +1,18 @@
+JAVASCRIPT QUESTIONS
+
+What is closure
+How we make it
+--Pass closure variable into a function (maybe ananymous funntion to keep its value)
+
+Why we need it? why javascript doesnt keep values in the loop
+--Since JS is asynchronous, so it needs not to wait for variables
+
+Whats scope of variables in JS
+
+How do you deep copy an object in JS
+
+how to save value of an object in function to be used outside of function
+
+When assigning another variable to some variable, is it copied by value or reference
+
+
