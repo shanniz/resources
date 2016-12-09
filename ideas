@@ -1,0 +1,79 @@
+Apply Deep Learning algorithms that self learn the feature representation from text., No need to self feature engineer.
+
+//angular 2 example
+https://github.com/kara
+
+
+//Cracking Google Interview
+
+prove whats on your resume
+
+code on white board, without computer
+
+data structures algorithms
+	hash tables, stacks, arrays, 
+	algorithms space and time complexity
+	
+system design, OOP
+problem solving skills
+provide efficient code in short time is key
+design question, create a high level system
+
+general analysis question, understand all problem aspects,
+	offer multiple solutions with relative merits
+interviewer will ask if he'd be comfortable working with you
+
+Focus on CODING
+	most of the time your gonna write code
+	API's, OO designs, how to test your code, find corner cases for the code
+
+Algorithms
+time and space complexity of your algorithm
+	how to change or improve it
+Dykstra's or A star algorithms
+
+Testing experience
+testing aptitute 
+	how to unit test your code
+	interesting input cases can be 
+	design intergration, load performance, or maybe security tests for real-world apps like gmail
+	
+DataStructures
+	As many as possible
+	problems of NP complete, like traveling salesman, nap sock, 
+	recognize famous questions when asked a slightly different way
+	What NP complete is?
+	Trees, construction, traversal and manipulation
+	Hash tables, stacks, arrays, linked lists, 
+	
+Math - Discrete maths
+	counting, probability, everyday things, 
+	essentials of probability theory, combinatorial 
+	N choose K problems, recursion
+	
+Recursion:
+	problems that can be solved elegantly using recursion
+	
+OS:
+	Processes, threads, concurrency issues, 
+						semaphores, mutex, locks, 
+	resource allocation - process or thread resources,  
+	context switching - OS and underlying HW
+	process scheduling -
+	
+System Design:
+	combine knowledge, theory and judgement to solve real world problems
+		feature sets, interfaces, class hierarchies, distributed systems, system design under certain constraints
+		Internet working, its components; routers, DNS, load balancers, firewalls, 
+
+How to interview
+	explain and clearify - talk your thought proc. dur. interview - whatever ideas you are thinking of
+	question you ask for clarification - any time and space limiations?
+	keep thinking, first sol. may not be elegant, continue to think of better sol
+	practice physically writing code
+		easiliy readable without bugs
+		find problems, write code to solve them
+		practice practice
+	
+
+
